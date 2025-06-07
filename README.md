@@ -35,7 +35,7 @@ It is strongly recommended to use a virtual environment to avoid dependency conf
 - **Source:** [Kaggle - Formula 1 World Championship (1950 - 2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 - **Author:** Rohan Rao
 
-Make sure to download the dataset and place it in the appropriate folder as expected by the scripts in this project.
+Not all the dataset .csv had been used but the ones needed are already included in the proyect.
 
 ## 🛠️ Technologies Used
 
