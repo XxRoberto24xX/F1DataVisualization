@@ -10,18 +10,18 @@ This project was developed as part of a university course assignment focused on 
 
 It is strongly recommended to use a virtual environment to avoid dependency conflicts.
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/f1DataVisualization.git
-   cd f1DataVisualization
-   ```
-
-2. **Create a virtual environment (optional but recommended):**
+1. **Create a virtual environment (optional but recommended):**
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   ```
+
+2. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/f1DataVisualization.git
+   cd f1DataVisualization
    ```
 
 3. **Install the required libraries:**
